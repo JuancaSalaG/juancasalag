@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello, this is Juan Camilo 🤝
+**`Full-stack Developer (Electronics/Developer/DIY)`**
 <!--
 **JuancaSalaG/juancasalag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
